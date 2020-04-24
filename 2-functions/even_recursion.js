@@ -1,3 +1,4 @@
+//this function chacks if number is even or not
 const isEven = (number) => {
     if (number < 0) {
         return isEven(-number);

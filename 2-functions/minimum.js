@@ -1,3 +1,4 @@
+//this function takes two arguments and returns their minimum
 const minimum = (x,y) => {
     return (x < y) ? x : y;
 };
